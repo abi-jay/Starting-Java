@@ -1,0 +1,23 @@
+1.	Name Age and Income
+My name is Abi, my age is 31 and
+I hope to earn $100000.0 per year.
+
+2.	Name and Initial
+My name is Abi Rad Jay
+My initial is arj
+
+3.	Details
+Abi
+123 abc colony new york NY 12345
+9876542344
+CS
+4.	Star Pattern
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+5.	Sales Prediction
+East Coast division will generate $2852000.0
